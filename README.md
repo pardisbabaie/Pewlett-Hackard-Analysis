@@ -14,4 +14,8 @@ Overall, there are over 40,000 roles that will need to be filled as the silver T
 
 <img width="242" alt="Screen Shot 2020-10-10 at 10 31 20 AM" src="https://user-images.githubusercontent.com/69806770/95659600-238ffd80-0af0-11eb-8b84-ed1b68e161a7.png">
 
+Also, looking at the data from a department persepective and the total number of individuals retiring per department we can see the development, production and sales are the ones that will be most affected by the silver tsunami as seen below: 
 
+
+
+This is a high risk for the company because without the development, production and sales the company will suffer and so will all the other departments as they are connected to these. 
