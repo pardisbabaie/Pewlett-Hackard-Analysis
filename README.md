@@ -9,3 +9,6 @@ The purpose of this project is to assist Bobby an employee of Pewlett Hackard in
 
 - Based on the mentorship eligibility table we can see there are over 1000 employees that are eligible for the mentorship program
 - Based on the mentorship eligibility table we can see there are multiple positions eligible for mentorship but we cannot tell through this table how many of each position
+## Summary
+Overall, there are over 40,000 roles that will need to be filled as the silver Tsunami begins to impact Pewlett Hackard. There are over a 1000 qualified employees that are able to mentor the next generation of employees which means each individual would need to mentor more than one new employee. However, looking a little deeper into the data and knowing that we need mroe staff that are eligible to mentor the more senior positions, out of the 1000 only 372 are senior engineers which is the highest number of employees needed to be replaced. The table below demonstrates the breakdown count of the eligible mentors by title:
+
